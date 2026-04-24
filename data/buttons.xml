@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buttons version="4.3.4" page="0" pagewidth="0" pageheight="0" x="0" y="0" width="0" height="0" rollover="none" popupHeight="0" image="" rolloverText="" destination="">
+  <button page="4" pagewidth="580" pageheight="800" x="51" y="155" width="417" height="109" rollover="none" popupHeight="0" image="content/images/Image_1_1.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="49" y="195" width="418" height="109" rollover="none" popupHeight="0" image="content/images/Image_1_4.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="49" y="233" width="417" height="111" rollover="none" popupHeight="0" image="content/images/Image_1_7.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="49" y="269" width="417" height="120" rollover="none" popupHeight="0" image="content/images/Image_1_10.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="48" y="312" width="417" height="110" rollover="none" popupHeight="0" image="content/images/Image_1_13.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="49" y="347" width="416" height="117" rollover="none" popupHeight="0" image="content/images/Image_1_16.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="48" y="385" width="417" height="124" rollover="none" popupHeight="0" image="content/images/Image_1_19.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="48" y="425" width="417" height="117" rollover="none" popupHeight="0" image="content/images/Image_1_22.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="47" y="424" width="418" height="122" rollover="none" popupHeight="0" image="content/images/Image_1_25.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="47" y="466" width="417" height="118" rollover="none" popupHeight="0" image="content/images/Image_1_26.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="46" y="545" width="416" height="120" rollover="none" popupHeight="0" image="content/images/Image_1_29.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="46" y="502" width="418" height="127" rollover="none" popupHeight="0" image="content/images/Image_1_31.png" rolloverText="" destination=""/>
+  <button page="4" pagewidth="580" pageheight="800" x="46" y="581" width="419" height="127" rollover="none" popupHeight="0" image="content/images/Image_1_34.png" rolloverText="" destination=""/>
+  <button page="5" pagewidth="580" pageheight="800" x="51" y="154" width="417" height="114" rollover="none" popupHeight="0" image="content/images/Image_2_1.png" rolloverText="" destination=""/>
+  <button page="5" pagewidth="580" pageheight="800" x="50" y="190" width="417" height="120" rollover="none" popupHeight="0" image="content/images/Image_2_4.png" rolloverText="" destination=""/>
+  <button page="5" pagewidth="580" pageheight="800" x="51" y="230" width="418" height="122" rollover="none" popupHeight="0" image="content/images/Image_2_7.png" rolloverText="" destination=""/>
+  <button page="5" pagewidth="580" pageheight="800" x="50" y="268" width="416" height="121" rollover="none" popupHeight="0" image="content/images/Image_2_10.png" rolloverText="" destination=""/>
+  <button page="5" pagewidth="580" pageheight="800" x="50" y="307" width="416" height="122" rollover="none" popupHeight="0" image="content/images/Image_2_13.png" rolloverText="" destination=""/>
+  <button page="5" pagewidth="580" pageheight="800" x="50" y="349" width="416" height="119" rollover="none" popupHeight="0" image="content/images/Image_2_16.png" rolloverText="" destination=""/>
+  <button page="5" pagewidth="580" pageheight="800" x="50" y="387" width="417" height="115" rollover="none" popupHeight="0" image="content/images/Image_2_19.png" rolloverText="" destination=""/>
+  <button page="5" pagewidth="580" pageheight="800" x="51" y="427" width="414" height="117" rollover="none" popupHeight="0" image="content/images/Image_2_22.png" rolloverText="" destination=""/>
+  <button page="5" pagewidth="580" pageheight="800" x="50" y="468" width="417" height="114" rollover="none" popupHeight="0" image="content/images/Image_2_25.png" rolloverText="" destination=""/>
+</buttons>
